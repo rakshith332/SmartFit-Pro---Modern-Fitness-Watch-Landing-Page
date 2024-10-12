@@ -1,5 +1,5 @@
 ﻿# SmartFit-Pro---Modern-Fitness-Watch-Landing-Page
- # SmartFit Pro - Modern Fitness Watch Landing Page
+
 
 This is a simple landing page for the SmartFit Pro, a sleek and modern fitness watch. The page highlights the key features of the product and includes a call-to-action button for purchasing.
 

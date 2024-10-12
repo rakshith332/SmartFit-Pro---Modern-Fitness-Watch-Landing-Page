@@ -20,8 +20,5 @@ This is a simple landing page for the SmartFit Pro, a sleek and modern fitness w
 2. Open `index.html` in your browser.
 
 ## Screenshot
-![Product Image](path-to-image)
-
-## License
-[MIT License](LICENSE)
+![Product Image](smartwatch.jpeg)
 
